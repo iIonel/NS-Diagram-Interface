@@ -1,5 +1,6 @@
 # NS-Diagram-Interface
 made in winbgim library
+for audio files -> https://we.tl/t-mhnvgAIMgS
 
 Borland Graphics Interface (BGI) for Windows
 Version 6.0, August 9, 2004
