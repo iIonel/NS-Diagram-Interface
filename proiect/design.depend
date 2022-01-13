@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1640110052 source:c:\users\maste\desktop\design\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+
+1641671900 source:c:\users\robert\downloads\drive-download-20220108t160730z-001\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
